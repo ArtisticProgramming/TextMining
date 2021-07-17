@@ -1,4 +1,4 @@
-Analysing restaurants reviews with Latent Dirichlet allocation & supervised Machine learning algorithms (SVM and Naive Bayesian)
+Analysing restaurants reviews with Latent Dirichlet allocation & classification systems using upervised Machine learning algorithms (SVM and Naive Bayesian)
 
 Blueprint for building an automated text classification system
 
