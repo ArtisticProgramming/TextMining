@@ -1,5 +1,1 @@
-Latent Dirichlet allocation codes for resturant reviews
-
-and 
-
-Supervised Machin learning algorithms (SVM and Naive Bayesian)
+Analysing restaurants reviews with Latent Dirichlet allocation & supervised Machine learning algorithms (SVM and Naive Bayesian)
